@@ -1,3 +1,3 @@
 ### Leaders
 
-* [Dan Ehrlich](mailto://dan.ehrlich@owasp.org)
+* [Dan Ehrlich](mailto:dan.ehrlich@owasp.org)
